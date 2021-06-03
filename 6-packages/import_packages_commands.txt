@@ -1,0 +1,14 @@
+pip install requests
+pip install colorama
+python
+>>> from colorama import init
+>>> init()
+>>> from colorama import Fore
+>>> print(Fore.RED + "Some red text")
+
+
+
+pip install openpyxl
+
+#####################################################
+To create a python package, add an "__init__.py" file, under the desired directory
