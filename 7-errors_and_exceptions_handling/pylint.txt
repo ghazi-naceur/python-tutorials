@@ -1,0 +1,1 @@
+pylint python_file .py -r y
